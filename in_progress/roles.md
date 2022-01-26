@@ -56,18 +56,12 @@ and are ultimately responsible for managing the [scverse](https://github.com/scv
 twitter account, the [scverse website](https://scverse.org), and other similar scverse-owned resources.
 
 The steering council is currently fixed in size to three members.
-This number may be increased in the future, but will always be an odd number to ensure a simple majority vote outcome is always possible. 
-The initial steering council of Zarr consists of
+This number will be increased as our community grows and diversifies, but will always be an odd number to ensure a simple majority vote outcome is always possible. 
+The initial steering council of the `scverse` consists of
 
-* [Ryan Abernathey](https://github.com/rabernat)
-
-* [John Kirkham](https://github.com/jakirkham)
-
-* [Alistair Miles](https://github.com/alimanfoo)
-
-* [Josh Moore](https://github.com/joshmoore)
-
-* [Ryan Williams](https://github.com/ryan-williams)
+* [Isaac Virshup](https://github.com/ivirshup)
+* [Danila Bredikhin](https://github.com/gtca)
+* [Lukas Huemos](https://github.com/Zethson)
 
 The SC membership is revisited every January.
 SC members who do not actively engage with the SC duties are expected to resign.
@@ -76,7 +70,7 @@ Nominees should have demonstrated long-term, continued commitment to the project
 A nomination will result in discussion that cannot take more than a month and then admission to the SC by consensus.
 During that time deadlocked votes of the SC will be postponed until the new member has joined and another vote can be held.
 
-The Zarr steering council may be contacted at `zarr-steering-council@googlegroups.com`, or via the [@zarr-developers/steering-council](https://github.com/orgs/zarr-developers/teams/steering-council) GitHub team. (**TODO**)
+The `scverse` steering council may be contacted at `zarr-steering-council@googlegroups.com`, or via the [@zarr-developers/steering-council](https://github.com/orgs/zarr-developers/teams/steering-council) GitHub team. (**TODO**)
 
 # Decision Making Process
 
