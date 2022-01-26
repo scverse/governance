@@ -1,10 +1,21 @@
 # Mission Statement
 
+## Values
+
+* Efficiency – Work the largest amount of data possible given available resources. We are not just targeting the largest datasets, but making analysis of data as widely accessible as possible.  
+* Simplicity – Invent as little as possible and work with standard pydata types. Our users already have to be experts in multiple-fields. Lets not raise the bar for usage higher.
+* Interoperability/ Composability – Make an effort to make our tools work with other tools. Data should not be locked into an ecosystem, and should be stored in standardized formats like hdf5 and  zarr.
+* Diversity – We want our tools and community to be open and useful to everyone. Our tools will have the most impact if they are developed for and by a diverse community.
+
+## Abstract
+
 Scanpy and accessory packages for single-cell data analysis in Python have seen a strong and steady increase in interest since its first publication.
 The ecosystem has outgrown a single package and modality, so we've formed a new organization, the **`scverse`**, to handle this.
 
-The `scverse` is a community-based project with contributions from different entities at various levels.
-The scverse constitutes an environment of tools which is deliberately not unified under a single package, but instead Scanpy and AnnData have served as the backbone of a Python-based single-cell data analysis environment.
+The `scverse` is a community-based ecosystem of tools with users and developers across many organizations.
+For the ecosystem to be useful and grow, it’s essential that the core analytic tools are well made and continue to be maintained. Frequently, tools are made by small groups within individual labs, and can quickly fall into disrepair once a grad student leaves. To some extent, this is unavoidable and is the nature of academic code. For commonly used, important tools this needs to be avoided.
+
+The scverse constitutes an environment of tools which is deliberately not unified under a single package, but instead a consortium of core analytic tools with shared maintanance resposibilities.
 Tools within this environment that are considered "core" for sharing data between tools or are required for fundamental analyses of single cell datatypes are placed under shared maintainance in the `scverse` github organization.
 
 Workflows in this environment are heterogeneous and this core can be supplemented with analysis specific accessory packages.
