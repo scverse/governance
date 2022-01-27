@@ -25,7 +25,8 @@ among other possibilities.
 Any community member can become a contributor, and all are encouraged to do so.
 By contributing to the project, community members can directly help to shape its future.
 
-Potential contributors are encouraged to read the Contributing Guide (**TODO**) as well as the Code of Conduct (**TODO**)
+All community members are required to adhere by our code of conduct (**TODO: add link**).
+Potential contributors are encouraged to read the Contributing Guide (**TODO: add link**).
 
 A community member becomes a contributor when the following criteria are met:
 
