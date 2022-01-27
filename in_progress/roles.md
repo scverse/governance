@@ -41,6 +41,8 @@ Becoming a core developer allows contributors to merge approved pull requests, c
 Core developers appear as organization members on the scverse [GitHub organization](https://github.com/orgs/scverse/people) and are on our [@zarr-developers/core-devs](https://github.com/orgs/zarr-developers/teams/core-devs) GitHub team (**TODO**).
 Core developers are expected to review code contributions while adhering to the [core developer guide](CORE_DEV_GUIDE.md) (**TODO**).
 New core developers can be nominated by any existing core developer, and for details on that process see our core developer guide.
+All core packages must have at least one core developer as a maintainer.
+Primary maintainers of new core packages, who are not already core developers, will be invited to join.
 
 ## Steering Council
 
