@@ -13,7 +13,7 @@ This document describes how that participation takes place, how to find consensu
 
 The scverse community consists of anyone using or working with the project in any way.
 
-## Contributors
+## Contributors/ Project developers
 
 A community member can become a contributor by interacting directly with the project in concrete ways, such as:
 
@@ -32,14 +32,13 @@ A community member becomes a contributor when the following criteria are met:
 
 - At least two core developers from separate employers agree membership is a good idea.
 - The new member has supported the project several times, either through code or otherwise, and has demonstrated a willingness to help solve other people's problems, not just their own.
-- The new member demonstrates some degree of familiarity of open source practices and online courtesy.
 
 ## Core developers
 
 Core developers are community members that have demonstrated continued commitment to the project through ongoing contributions.
 They have shown they can be trusted to maintain the scverse with care.
 Becoming a core developer allows contributors to merge approved pull requests, cast votes for and against merging a pull-request, and be involved in deciding major changes to the API, and thereby more easily carry on with their project related activities. 
-Core developers appear as organization members on the scverse [GitHub organization](https://github.com/orgs/scverse/people) and are on our [@zarr-developers/core-devs](https://github.com/orgs/zarr-developers/teams/core-devs) GitHub team (**TODO**).
+Core developers appear as organization members on the scverse [GitHub organization](https://github.com/orgs/scverse/people) and are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team (**TODO**).
 Core developers are expected to review code contributions while adhering to the [core developer guide](CORE_DEV_GUIDE.md) (**TODO**).
 New core developers can be nominated by any existing core developer, and for details on that process see our core developer guide.
 All core packages must have at least one core developer as a maintainer.
@@ -54,8 +53,8 @@ The purpose of the SC is to ensure smooth progress from the big-picture perspect
 Changes that impact the full project require analysis informed by long experience with both the project and the larger ecosystem.
 When the core developer community (including the SC members) fails to reach such a consensus in a reasonable timeframe, the SC is the entity that resolves the issue.
 
-Members of the steering council also have the "owner" (**TBD**) role within the [zarr-developers GitHub organization](https://github.com/zarr-developers/)
-and are ultimately responsible for managing the [scverse](https://github.com/scverse) GitHub account, the [@zarr_dev](https://twitter.com/zarr_dev)
+Members of the steering council also have the "owner" (**TBD**) role within the [scverse GitHub organization](https://github.com/scverse/)
+and are ultimately responsible for managing the [scverse](https://github.com/scverse) GitHub account, the [@scverse](https://twitter.com/scanpy_team)
 twitter account, the [scverse website](https://scverse.org), and other similar scverse-owned resources.
 
 The steering council is currently fixed in size to three members.
@@ -73,7 +72,7 @@ Nominees should have demonstrated long-term, continued commitment to the project
 A nomination will result in discussion that cannot take more than a month and then admission to the SC by consensus.
 During that time deadlocked votes of the SC will be postponed until the new member has joined and another vote can be held.
 
-The `scverse` steering council may be contacted at `zarr-steering-council@googlegroups.com`, or via the [@zarr-developers/steering-council](https://github.com/orgs/zarr-developers/teams/steering-council) GitHub team. (**TODO**)
+The `scverse` steering council may be contacted at `steering-council@scverse.org`, or via the [@scverse/steering-council](https://github.com/orgs/scverse/teams/steering-council) GitHub team.
 
 # Decision Making Process
 
