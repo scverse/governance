@@ -47,8 +47,19 @@ Core developers are members of the core team who have made signifigant code cont
 Becoming a core developer allows contributors to merge approved pull requests, cast votes for and against merging a pull-request, and be involved in deciding major changes to the API, and thereby more easily carry on with their project related activities. 
 Core developers are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team (**TODO**).
 Core developers are expected to review code contributions while adhering to the [core developer guide](CORE_DEV_GUIDE.md) (**TODO**).
-New core developers can be nominated by any existing core developer, and for details on that process see our core developer guide.
+
 All core packages must have at least one core developer as a maintainer.
+New core developers can be nominated by any existing core developer. 
+While there is no hard-and-fast rule about who can be nominated, ideally, they should have: 
+
+* Been part of the community for at least two months
+* Contributed significant changes of their own
+* Contributed to the discussion and review of others' work
+* Collaborated in a way befitting our community values
+
+After nomination voting will happen on a private mailing list by the core team.
+While it is expected that most votes will be unanimous, a two-thirds majority of the cast votes is enough.
+
 Primary maintainers of new core packages, who are not already core developers, will be invited to join.
 
 ## Steering Council
