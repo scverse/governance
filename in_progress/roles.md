@@ -33,12 +33,19 @@ A community member becomes a contributor when the following criteria are met:
 - At least two core developers from separate employers agree membership is a good idea.
 - The new member has supported the project several times, either through code or otherwise, and has demonstrated a willingness to help solve other people's problems, not just their own.
 
-## Core developers
+## Core team
 
-Core developers are community members that have demonstrated continued commitment to the project through ongoing contributions.
+The core team are community members that have demonstrated continued commitment to the project through ongoing contributions.
 They have shown they can be trusted to maintain the scverse with care.
+Team members appear as organization members on the scverse [GitHub organization](https://github.com/orgs/scverse/people) and are on our [@scverse/core](https://github.com/orgs/scverse/teams/core) GitHub team (**TODO**).
+
+There are sub-roles within the core team depending on the kinds covering different kinds of contributions and responsibilities.
+
+### Core developers
+
+Core developers are members of the core team who have made signifigant code contributions to the `scverse`.
 Becoming a core developer allows contributors to merge approved pull requests, cast votes for and against merging a pull-request, and be involved in deciding major changes to the API, and thereby more easily carry on with their project related activities. 
-Core developers appear as organization members on the scverse [GitHub organization](https://github.com/orgs/scverse/people) and are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team (**TODO**).
+Core developers are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team (**TODO**).
 Core developers are expected to review code contributions while adhering to the [core developer guide](CORE_DEV_GUIDE.md) (**TODO**).
 New core developers can be nominated by any existing core developer, and for details on that process see our core developer guide.
 All core packages must have at least one core developer as a maintainer.
