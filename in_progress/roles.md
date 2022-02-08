@@ -90,8 +90,8 @@ Occasionally, sensitive discussion may occur via a private message.
 Decisions should be made in accordance with the mission and values of the scverse project.
 
 scverse uses a “consensus seeking” process for making decisions.
-The group tries to find a resolution that has no open objections among core developers.
-Core developers are expected to distinguish between fundamental objections to a proposal and minor perceived flaws that they can live with, and not hold up the decision-making process for the latter.
+The group tries to find a resolution that has no open objections among relevant core team members.
+Core members are expected to distinguish between fundamental objections to a proposal and minor perceived flaws that they can live with, and not hold up the decision-making process for the latter.
 If no option can be found without objections, the decision is escalated to the SC, which will itself use consensus seeking to come to a resolution.
 In the unlikely event that there is still a deadlock, the proposal will move forward if it has the support of a simple majority of the SC.
 
