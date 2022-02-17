@@ -1,11 +1,13 @@
 # Mission Statement
 
-## Values
+## Goals
 
-* Efficiency – Work the largest amount of data possible given available resources. We are not just targeting the largest datasets, but making analysis of data as widely accessible as possible.  
+We want to make single cell data analysis as accesible as possible. This means
+
+* Keeping data open, prioritizing interoperable data formats over serialized objects
+* Diversity, we believe in removing barriers to participation in research, including economic factors and institutional culture. Our tools will have the most impact if they are developed by and for a diverse community.
+* Transparency, we do our work as openly as possible and welcome our community to join in the decision making process
 * Simplicity – Invent as little as possible and work with standard pydata types. Our users already have to be experts in multiple-fields. Lets not raise the bar for usage higher.
-* Interoperability/ Composability – Make an effort to make our tools work with other tools. Data should not be locked into an ecosystem, and should be stored in standardized formats like hdf5 and  zarr.
-* Diversity – We want our tools and community to be open and useful to everyone. Our tools will have the most impact if they are developed for and by a diverse community.
 
 ## Abstract
 
