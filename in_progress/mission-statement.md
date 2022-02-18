@@ -17,7 +17,7 @@ This ecosystem has outgrown a single package or modality and now routinely inclu
 `Scverse` is a community-based ecosystem of tools with users and developers across many organizations.
 For the ecosystem to be useful and grow, it’s essential that the core analytic tools are well made and continue to be maintained. Frequently, tools are made by small groups within individual labs, and can quickly fall into disrepair once a grad student leaves. To some extent, this is unavoidable and is the nature of academic code. For commonly used, important tools this needs to be avoided.
 
-The scverse constitutes an environment of tools which is deliberately not unified under a single package, but instead a consortium of core analytic tools with shared maintanance resposibilities.
+Scverse constitutes an environment of tools which is deliberately not unified under a single package, but instead is a consortium of core analytic tools with shared maintenance responsibilities.
 Tools within this environment that are considered "core" for sharing data between tools or are required for fundamental analyses of single cell datatypes are placed under shared maintainance in the `scverse` github organization.
 
 Workflows in this environment are heterogeneous and this core can be supplemented with analysis specific accessory packages.
