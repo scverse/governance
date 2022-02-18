@@ -14,7 +14,7 @@ We want to make single cell omics data analysis as accesible as possible. This m
 Scanpy and accessory packages for single-cell data analysis in Python have seen a strong and steady increase in interest since its first publication.
 The ecosystem has outgrown a single package and modality, so we've formed a new organization, the **`scverse`**, to handle this.
 
-The `scverse` is a community-based ecosystem of tools with users and developers across many organizations.
+`Scverse` is a community-based ecosystem of tools with users and developers across many organizations.
 For the ecosystem to be useful and grow, it’s essential that the core analytic tools are well made and continue to be maintained. Frequently, tools are made by small groups within individual labs, and can quickly fall into disrepair once a grad student leaves. To some extent, this is unavoidable and is the nature of academic code. For commonly used, important tools this needs to be avoided.
 
 The scverse constitutes an environment of tools which is deliberately not unified under a single package, but instead a consortium of core analytic tools with shared maintanance resposibilities.
@@ -37,9 +37,9 @@ We promote user engagement via the following mechanisms:
 
 ## Developer engagement
 
-The scverse heavily benefits from a variety of people contributing code via different channels. The channels used at the moment are:
+Scverse heavily benefits from a variety of people contributing code via different channels. The channels used at the moment are:
 
-* Pull requests on scverse core or ecosytem packages: These can be used to fix bugs that are experienced during a workflow or to contribute functionalities. 
+* Pull requests on scverse core or ecosystem packages: These can be used to fix bugs that are experienced during a workflow or to contribute functionalities. 
 * Feedback/ bug reporting through issues and the community forum.
 * Creating and sharing tutorial content, either through written documentation or in person workshops.
 * Contributing and maintaining documentation, making it easier for people to use or understand available tools.
