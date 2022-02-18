@@ -12,7 +12,7 @@ We want to make single cell omics data analysis as accesible as possible. This m
 ## Abstract
 
 Scanpy and accessory packages for single-cell data analysis in Python have seen a strong and steady increase in interest since its first publication.
-The ecosystem has outgrown a single package and modality, so we've formed a new organization, the **`scverse`**, to handle this.
+This ecosystem has outgrown a single package or modality and now routinely includes packages at the frontier of single-cell research and development. To handle the growing needs of this ecosystem, we've formed a new organization -- **`scverse`**.
 
 `Scverse` is a community-based ecosystem of tools with users and developers across many organizations.
 For the ecosystem to be useful and grow, it’s essential that the core analytic tools are well made and continue to be maintained. Frequently, tools are made by small groups within individual labs, and can quickly fall into disrepair once a grad student leaves. To some extent, this is unavoidable and is the nature of academic code. For commonly used, important tools this needs to be avoided.
