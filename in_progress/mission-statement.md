@@ -4,7 +4,7 @@
 
 We want to make single cell omics data analysis as accesible as possible. This means
 
-* Keeping data open, prioritizing interoperable data formats over serialized objects
+* Interoperability -- we focus on developing open, standardized, and interchangeable file formats and keep our data openly accessible. 
 * Diversity -- we believe in removing barriers to participation in research, including economic factors and institutional culture. Our tools will have the most impact if they are developed by and for a diverse community.
 * Transparency -- we do our work as openly as possible and welcome our community to join in the decision making process
 * Simplicity – Invent as little as possible and work with standard pydata types. We strive for easy-to-use interfaces that reduce mental overhead.
