@@ -13,7 +13,7 @@ This document describes how that participation takes place, how to find consensu
 
 The scverse community consists of anyone using or working with the project in any way.
 
-## Contributors/ Project developers
+## Contributors
 
 A community member can become a contributor by interacting directly with the project in concrete ways, such as:
 
@@ -32,6 +32,11 @@ A community member becomes a contributor when the following criteria are met:
 
 - At least two core developers from separate employers agree membership is a good idea.
 - The new member has supported the project several times, either through code or otherwise
+
+### Project developers
+
+Individual projects within the scverse have a lot of freedom in deciding how their projects are developed.
+This includes who gets commit rights to their projects.
 
 ## Core team
 
