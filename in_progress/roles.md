@@ -57,7 +57,7 @@ All core packages must have at least one core developer as a maintainer.
 New core developers can be nominated by any existing core developer. 
 While there is no hard-and-fast rule about who can be nominated, ideally, they should have: 
 
-* Been part of the community for at least two months
+* Been part of the community for a significant amount of time
 * Contributed significant changes of their own
 * Contributed to the discussion and review of others' work
 * Collaborated in a way befitting our community values
