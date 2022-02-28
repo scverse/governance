@@ -40,7 +40,7 @@ We promote user engagement via the following mechanisms:
 Scverse heavily benefits from a variety of people contributing code via different channels. The channels used at the moment are:
 
 * Pull requests on scverse core or ecosystem packages: These can be used to fix bugs that are experienced during a workflow or to contribute functionalities. 
-* Feedback/ bug reporting through issues and the community forum.
+* Feedback/bug reporting through issues and the community forum.
 * Creating and sharing tutorial content, either through written documentation or in person workshops.
 * Contributing and maintaining documentation, making it easier for people to use or understand available tools.
 * Participation in community forums, by helping new users or participating in discussions.
