@@ -41,7 +41,7 @@ This includes who gets commit rights to their projects.
 ## Core team
 
 The core team are community members that have demonstrated continued commitment to the project through ongoing contributions.
-They have shown they can be trusted to maintain the scverse with care.
+They have shown they can be trusted to maintain scverse with care.
 Team members appear as organization members on the scverse [GitHub organization](https://github.com/orgs/scverse/people) and are on our [@scverse/core](https://github.com/orgs/scverse/teams/core) GitHub team (**TODO**).
 
 There are sub-roles within the core team depending on the kinds covering different kinds of contributions and responsibilities.
