@@ -35,7 +35,7 @@ A community member becomes a contributor when the following criteria are met:
 
 ### Project developers
 
-Individual projects within the scverse have a lot of freedom in deciding how their projects are developed.
+Individual projects within scverse have a lot of freedom in deciding how their projects are developed.
 This includes who gets commit rights to their projects.
 
 ## Core team
