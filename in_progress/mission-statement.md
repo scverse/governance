@@ -12,11 +12,12 @@ We want to make single cell omics data analysis as accessible as possible. This 
 ## Abstract
 
 The growing adoption of Python for single-cell omics data analysis has been catalyzed by [Scanpy](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1382-0) and [AnnData](https://anndata.readthedocs.io/en/latest/). 
-Around these two core packages, an "ecosystem" of packages has been contributed by various developers and institutions, extending single-cell analysis to different modalities and providing cutting-edge methods at the frontier of single-cell research. To further nurture the growth of this ecosystem, we've formed a new organization -- **`scverse`**.
+Around this infrastructure an ecosystem of packages has been contributed by various developers and institutions — extending single-cell analysis to different modalities and addressing challenges at the cutting-edge of single-cell research.
+To further nurture the growth of this ecosystem, we've formed a new organization -- **`scverse`**.
 
-To sustain the utility and growth of the ecosystem, it’s essential that the core analytic tools are robust and well-maintained. Accomplishing this entails consistently supporting and improving tools beyond what can be done in the conventional single-lab academic setting.
+scverse is a consortium of tools with users and developers across the world. To sustain the utility and growth of the ecosystem, it’s essential the core analytic tools are robust and well-maintained. This entails consistently support and improvement tools beyond what's possible in the conventional single-lab academic setting.
 
-Scverse constitutes an environment of tools which is deliberately not unified under a single package, but instead is a consortium of core analytic tools with shared maintenance responsibilities.
+Tools within `scverse` are deliberately not unified under a single package, and instead form a consortium of core analytic tools with shared maintenance responsibilities.
 Tools within this environment that are considered "core" for sharing data between tools or are required for fundamental analyses of single cell datatypes are placed under shared maintainance in the `scverse` github organization.
 
 Workflows in this environment are heterogeneous and this core can be supplemented with analysis specific accessory packages.
