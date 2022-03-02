@@ -11,8 +11,8 @@ We want to make single cell omics data analysis as accessible as possible. This 
 
 ## Abstract
 
-The growing adoption of Python for single-cell omics data analysis has been catalyzed by [Scanpy](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1382-0) (single-cell analysis in Python) and its ecosystem.
-This ecosystem has outgrown a single package or modality and now routinely includes packages at the frontier of single-cell research and development. To handle the growing needs of this ecosystem, we've formed a new organization -- **`scverse`**.
+The growing adoption of Python for single-cell omics data analysis has been catalyzed by [Scanpy](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1382-0) and [AnnData](https://anndata.readthedocs.io/en/latest/). 
+Around these two core packages, an "ecosystem" of packages has been contributed by various developers and institutions, extending single-cell analysis to different modalities and providing cutting-edge methods at the frontier of single-cell research. To further nurture the growth of this ecosystem, we've formed a new organization -- **`scverse`**.
 
 `Scverse` is a community-based ecosystem of tools with users and developers across many organizations.
 To sustain the utility and growth of the ecosystem, it’s essential that the core analytic tools are robust and well-maintained. Accomplishing this entails consistently supporting and improving tools beyond what can be done in the conventional single-lab academic setting.
