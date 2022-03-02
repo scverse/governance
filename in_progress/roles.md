@@ -49,7 +49,8 @@ There are sub-roles within the core team depending on the kinds covering differe
 ### Core developers
 
 Core developers are members of the core team who have made signifigant code contributions to `scverse`.
-Becoming a core developer allows contributors to merge approved pull requests, cast votes for and against merging a pull-request, and be involved in deciding major changes to the API, and thereby more easily carry on with their project related activities. 
+They are granted additional rights so they can more easily carry on with their `scverse` related activities.
+These rights include: merging approved pull requests, voting for and against contested pull-requests, and being involved in deciding major changes to the API.
 Core developers are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team (**TODO**).
 Core developers are expected to review code contributions while adhering to the [core developer guide](CORE_DEV_GUIDE.md) (**TODO**).
 
