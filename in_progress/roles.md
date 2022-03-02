@@ -63,8 +63,7 @@ While there is no hard-and-fast rule about who can be nominated, ideally, they s
 * Contributed to the discussion and review of others' work
 * Collaborated in a way befitting our community values
 
-After nomination voting will happen on a private mailing list by the core team.
-While it is expected that most votes will be unanimous, a two-thirds majority of the cast votes is enough.
+After nomination admission will be decided by two-thirds majority vote on a private mailing list by the core team.
 
 Primary maintainers of new core packages, who are not already core developers, will be invited to join.
 
