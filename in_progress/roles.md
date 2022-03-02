@@ -30,7 +30,7 @@ Potential contributors are encouraged to read the Contributing Guide (**TODO: ad
 
 A community member becomes a contributor when the following criteria are met:
 
-- At least two core developers from separate employers agree membership is a good idea.
+- At least two core team members support their addition
 - The new member has supported the project several times, either through code or otherwise
 
 ### Project developers
