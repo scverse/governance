@@ -21,10 +21,13 @@ Tools within `scverse` are deliberately not unified under a single package, and 
 We define "core tools" as those which facilitate sharing data through common formats, or provide foundational support for single cell datatypes (e.g. modality specific IO, toolkits) and analyses. 
 These tools are placed under shared maintenance in the `scverse` GitHub organization.
 
-Workflows in this environment are heterogeneous and this core can be supplemented with analysis specific accessory packages.
-This document lays out our vision and processes around the project's community.
-We are committed to keeping this community open to third-party contributions and are committed to acknowledging contributions.
-This white paper may serve as an entry point for third parties into the structure of the scverse environment.
+We are committed to keeping this community open.
+`scverse` core tools are expected to interface and be supplemented by other tools in the ecosystem.
+However, development of core packages is not restricted.
+Contributions to the core packages are welcomed and publicly acknowledged.
+
+This document lays out our vision and processes around the project.
+It may serve as an entry point for third parties into the structure of the scverse environment.
 
 ## User engagement
 
