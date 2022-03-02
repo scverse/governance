@@ -23,7 +23,7 @@ These tools are placed under shared maintenance in the `scverse` GitHub organiza
 
 Workflows in this environment are heterogeneous and this core can be supplemented with analysis specific accessory packages.
 This document lays out our vision and processes around the project's community.
-We are committed to keeping this community open to third-party contributions and usage and are committed to acknowledging contributions.
+We are committed to keeping this community open to third-party contributions and are committed to acknowledging contributions.
 This white paper may serve as an entry point for third parties into the structure of the scverse environment.
 
 ## User engagement
