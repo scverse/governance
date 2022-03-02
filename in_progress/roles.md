@@ -42,7 +42,7 @@ This includes who gets commit rights to their projects.
 
 The core team are community members that have demonstrated continued commitment to the project through ongoing contributions.
 They have shown they can be trusted to maintain scverse with care.
-Team members appear as organization members on the scverse [GitHub organization](https://github.com/orgs/scverse/people) and are on our [@scverse/core](https://github.com/orgs/scverse/teams/core) GitHub team (**TODO**).
+Team members appear as organization members on the scverse [GitHub organization](https://github.com/orgs/scverse/people) and are on our [@scverse/core](https://github.com/orgs/scverse/teams/core) GitHub team.
 
 There are sub-roles within the core team depending on the kinds covering different kinds of contributions and responsibilities.
 
@@ -69,14 +69,14 @@ Primary maintainers of new core packages, who are not already core developers, w
 
 ## Steering Council
 
-The Steering Council (SC) members are core developers who have additional responsibilities to ensure the smooth running of the project.
+The Steering Council (SC) members are core team members who have additional responsibilities to ensure the smooth running of the project.
 SC members are expected to participate in strategic planning, approve changes to the governance model, and make decisions about funding granted to `scverse` itself.
 (Funding to community members is theirs to pursue and manage). 
 The purpose of the SC is to ensure smooth progress from the big-picture perspective.
 Changes that impact the full project require analysis informed by long experience with both the project and the larger ecosystem.
-When the core developer community (including the SC members) fails to reach such a consensus in a reasonable timeframe, the SC is the entity that resolves the issue.
+When the core team (including the SC members) fails to reach such a consensus in a reasonable timeframe, the SC is the entity that resolves the issue.
 
-Members of the steering council also have the "owner" (**TBD**) role within the [scverse GitHub organization](https://github.com/scverse/)
+Members of the steering council also have the "owner" role within the [scverse GitHub organization](https://github.com/scverse/)
 and are ultimately responsible for managing the [scverse](https://github.com/scverse) GitHub account, the [@scverse](https://twitter.com/scanpy_team)
 twitter account, the [scverse website](https://scverse.org), and other similar scverse-owned resources.
 
@@ -99,8 +99,8 @@ The `scverse` steering council may be contacted at `steering-council@scverse.org
 
 # Decision Making Process
 
-Decisions about the future of the project are made through discussion with all members of the community.
-All non-sensitive project management discussion takes place on the issue trackers of the https://github.com/scverse repositories.
+Decisions about the future of the project are made through discussion with members of the community.
+All non-sensitive project management discussion takes place on the issue trackers of the https://github.com/scverse repositories, in public channels of our chat, or on the forums.
 Occasionally, sensitive discussion may occur via a private message.
 
 Decisions should be made in accordance with the mission and values of the scverse project.
