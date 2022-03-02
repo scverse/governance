@@ -35,9 +35,11 @@ The ecosystem centred on `scverse` core packages consists of python packages whi
 Its primary purpose is to allow users to generalise workflows to their own data analysis settings.
 We promote user engagement via the following mechanisms:
 
-* Clear documentation of code and usage of tutorial notebooks.
-* Participation in development though issues and pull requests.
-* Community forums, such as our Discourse and Twitter account. scverse environment-centric workshops at which scverse workflows are taught and hackathons at which functionalities are contributed. We share event dates and resources within the environment to increase impact and to exploit synergies.
+* clear documentation of code and usage of tutorial notebooks,
+* participation in development through issues and pull requests,
+* community forums, such as our Discourse and Twitter account, 
+* workshops at which we teach analysis workflows based on the `scverse` ecosystem, and
+* hackathons, to lower the bar for code-contributions. 
 
 ## Developer engagement
 
