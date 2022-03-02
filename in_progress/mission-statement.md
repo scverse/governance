@@ -18,7 +18,8 @@ To further nurture the growth of this ecosystem, we've formed a new organization
 scverse is a consortium of tools with users and developers across the world. To sustain the utility and growth of the ecosystem, it’s essential the core analytic tools are robust and well-maintained. This entails consistently support and improvement tools beyond what's possible in the conventional single-lab academic setting.
 
 Tools within `scverse` are deliberately not unified under a single package, and instead form a consortium of core analytic tools with shared maintenance responsibilities.
-Tools within this environment that are considered "core" for sharing data between tools or are required for fundamental analyses of single cell datatypes are placed under shared maintainance in the `scverse` github organization.
+We define "core tools" as those which facilitate sharing data through common formats, or provide foundational support for single cell datatypes (e.g. modality specific IO, toolkits) and analyses. 
+These tools are placed under shared maintenance in the `scverse` GitHub organization.
 
 Workflows in this environment are heterogeneous and this core can be supplemented with analysis specific accessory packages.
 This document lays out our vision and processes around the project's community in a transparent and accessible way.
