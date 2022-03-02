@@ -39,7 +39,7 @@ We promote user engagement via the following mechanisms:
 * participation in development through issues and pull requests,
 * community forums, such as our Discourse and Twitter account, 
 * workshops at which we teach analysis workflows based on the `scverse` ecosystem, and
-* hackathons, to lower the bar for code-contributions. 
+* hackathons, to focus and engage the developer community.
 
 ## Developer engagement
 
