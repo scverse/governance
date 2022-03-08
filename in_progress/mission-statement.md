@@ -23,23 +23,23 @@ These tools are placed under shared maintenance in the `scverse` GitHub organiza
 
 We are committed to keeping this community open.
 `scverse` core tools are expected to interface and be supplemented by other tools in the ecosystem.
-However, development of core packages is not restricted.
-Contributions to the core packages are welcomed and publicly acknowledged.
+However, development of core packages is not restricted – contributions to the core packages are welcomed and publicly acknowledged.
 
 This document lays out our vision and processes around the project.
 It may serve as an entry point for third parties into the structure of the scverse environment.
 
 ## User engagement
 
-The ecosystem centred on `scverse` core packages consists of python packages which are documented on readthedocs and commonly accompanied by scientific publications.
-Its primary purpose is to allow users to generalise workflows to their own data analysis settings.
-We promote user engagement via the following mechanisms:
+
+`scverse` provides a set of high quality core packages for performing analysis on single cell data.
+These packages provide are well documented, tested, and provide broad functionality.
+All of these packages work with standardized data structures which use common python numeric types and have interchange friendly on-disk formats.
+Beyond these standard packages, users have access to cutting-edge and alternative analysis methods through the large ecosystem of packages built around these core tools.
 
 * clear documentation of code and usage of tutorial notebooks,
 * participation in development through issues and pull requests,
-* community forums, such as our Discourse and Twitter account, 
-* workshops at which we teach analysis workflows based on the `scverse` ecosystem, and
-* hackathons, to focus and engage the developer community.
+* community forums, such as our Discourse, Zulip, and Twitter account, and
+* workshops at which we teach analysis workflows based on the `scverse` ecosystem
 
 ## Developer engagement
 
