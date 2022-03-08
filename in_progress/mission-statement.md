@@ -43,14 +43,14 @@ Beyond these standard packages, users have access to cutting-edge and alternativ
 
 ## Developer engagement
 
-Scverse heavily benefits from a variety of people contributing code via different channels. The channels used at the moment are:
+Community contributions are instrumental to scverse. Apart from direct contributions of code through pull-requests to scverse core or ecosystem packages, we emphasize the importance of
 
-* Pull requests on scverse core or ecosystem packages: These can be used to fix bugs that are experienced during a workflow or to contribute functionalities. 
-* Feedback/bug reporting through issues and the community forum.
-* Creating and sharing tutorial content, either through written documentation or in person workshops.
-* Contributing and maintaining documentation, making it easier for people to use or understand available tools.
-* Participation in community forums, by helping new users or participating in discussions.
-* Ecosystem packages: Development of tools and analyses which interact with core packages, work with AnnData or MuData objects, or further what can be done with single cell data in Python.
+* providing feedback and reporting bugs through the community forum and the packages' issue trackers,
+* creating and sharing tutorial content, either through written documentation or in-person workshops,
+* contributing and maintaining documentation, making it easier for people to use or understand available tools,
+* participation in community forums, by helping new users or participating in discussions on what opportunities or challenges lie ahead for scverse, and
+* developing ecosystem packages, that interact with scverse core packages and data-structures and further what can be done with single-cell data in Python.
+
 
 As a community, we try to incentivise code contributions through the following mechanisms:
 
