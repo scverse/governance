@@ -43,6 +43,12 @@ This includes who gets commit rights to their projects.
 The core team are community members that have demonstrated continued commitment to the project through ongoing contributions.
 They have shown they can be trusted to maintain scverse with care.
 Team members appear as organization members on the scverse [GitHub organization](https://github.com/orgs/scverse/people) and are on our [@scverse/core](https://github.com/orgs/scverse/teams/core) GitHub team.
+The core team meets on a regular basis and reviews propsals as described in the section [Descision Making Process](#decision-making-process). 
+
+Core team members may resign from the project at any time, or lose their vote if a proposal to that effect is passed as outlined in the [Descision Making Process](#decision-making-process) section of this page.
+A proposal to remove someone’s vote may not contain any other business.
+Each person must be the subject of a separate proposal.
+The person in question has the right to vote on the proposal to remove their vote.
 
 There are sub-roles within the core team depending on the kinds covering different kinds of contributions and responsibilities.
 
@@ -99,16 +105,47 @@ The `scverse` steering council may be contacted at `steering-council@scverse.org
 
 # Decision Making Process
 
+This project uses [Martha’s Rules](https://journals.sagepub.com/doi/10.1177/088610998600100206) as described in the [blog post by Greg Wilson](https://third-bit.com/files/2020/08/marthas/) for making decisions. 
+The first section below describes these rules; the second lists voting members of the project and explains how to become one, while the third lists decisions made to date.
+
+## Making Decisions
+
 Decisions about the future of the project are made through discussion with members of the community.
 All non-sensitive project management discussion takes place on the issue trackers of the https://github.com/scverse repositories, in public channels of our chat, or on the forums.
 Occasionally, sensitive discussion may occur via a private message.
 
 Decisions should be made in accordance with the mission and values of the scverse project.
 
-scverse uses a “consensus seeking” process for making decisions.
-The group tries to find a resolution that has no open objections among relevant core team members.
-Core members are expected to distinguish between fundamental objections to a proposal and minor perceived flaws that they can live with, and not hold up the decision-making process for the latter.
-If no option can be found without objections, the decision is escalated to the SC, which will itself use consensus seeking to come to a resolution.
-In the unlikely event that there is still a deadlock, the proposal will move forward if it has the support of a simple majority of the SC.
+Before each core team meeting, anyone from the community who wishes may sponsor a proposal by filing an issue in the [scverse/governance](https://github.com/scverse/governance) repository tagged `proposal`.
+Proposals must be filed at least 24 hours before a meeting in order to be considered at that meeting, and must include:
+ * a one-line summary (the subject line of the issue)
+ * the full text of the proposal
+ * any required background information
+ * pros and cons
+ * possible alternatives
 
-If an objection is raised on a lazy consensus, the proposer can appeal to the community and core developers and the change can be approved or rejected by escalating to the SC.
+A quorum is established in a meeting if half or more of voting members are present.
+
+Once a person has sponsored a proposal, they are responsible for it. 
+The group may not discuss or vote on the issue unless the sponsor or their delegate is present. 
+The sponsor is also responsible for presenting the item to the group.
+After the sponsor presents the proposal, a sense vote is cast for the proposal prior to any discussion:
+ * Who likes the proposal?
+ * Who can live with the proposal?
+ * Who is uncomfortable with the proposal?
+
+If all of the group likes or can live with the proposal, it is immediately accepted with no further discussion.
+
+If most of the group is uncomfortable with the proposal, it is postponed for further rework by the sponsor.
+If any members are uncomfortable they can briefly state their objections. 
+A timer is then set for a brief discussion moderated by the facilitator. 
+After 10 minutes or when no one has anything further to add (whichever comes first), the facilitator calls for a yes-or-no vote on the question: “Should we implement this decision over the stated objections?”. 
+If a majority votes “yes” the proposal is implemented. Otherwise, the proposal is returned to the sponsor for further work.
+
+## Suffrage
+
+The [core team](#core-team) as defined above are voting members of this project. 
+
+## Recording Decisions
+
+Proposals and their decisions are tracked as issues in the [scverse/governance repository](https://github.com/scverse/governance/issues?q=is%3Aissue+label%3Aproposal). 
