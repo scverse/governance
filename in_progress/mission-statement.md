@@ -44,17 +44,15 @@ Beyond the purely technical, we support our users through:
 
 ## Developer engagement
 
-Community contributions are instrumental to scverse. Apart from direct contributions of code through pull-requests to scverse core or ecosystem packages, we emphasize the importance of
+Apart from a collection of analysis tools, `scverse` aims to support the development of new approaches to analyze and work with single cell data.
+We believe that progress in this field can't be silo'd to a few groups.
 
-* providing feedback and reporting bugs through the community forum and the packages' issue trackers,
-* creating and sharing tutorial content, either through written documentation or in-person workshops,
-* contributing and maintaining documentation, making it easier for people to use or understand available tools,
-* participation in community forums, by helping new users or participating in discussions on what opportunities or challenges lie ahead for scverse, and
-* developing ecosystem packages, that interact with scverse core packages and data-structures and further what can be done with single-cell data in Python.
+We support the development of third party tools by:
 
-
-As a community, we try to incentivise code contributions through the following mechanisms:
-
-* Pull requests: New workflows or methods can be contributed to the existing packages as extra functionalities in a pull request. These functionalities can be documented as being advised to be cited separately from the target repository if they are referenced in a scientific publication. Examples that were contributed to Scanpy are documented here: https://scanpy.readthedocs.io/en/docsearch/external/index.html. 
-* Promotion of ecosystem packages: These packages can and are cited separately from Scanpy and can therefore further the developers academic careers.  Secondly, these packages are advertised on [scverse.org](https://scverse.org/projects/), thus increasing the user base that is reached with the new package.
-* Core engagement in the community is acknowledged as contribution mentions on the website, which may certify the engagement in this community. Moreover, we can attribute contributions in our Twitter accounts to make this readily available for your career development.
+* Providing stable APIs to build on top of
+* Providing standardized and well supported data structure to pass around data
+* Making sure all contributions are recognized in our change logs and documentation
+* Promoting 3rd party packages that rely on scverse via our websites and social media feeds.
+* Establishing open communication channels for
+  * Discussion and collaboration between developers
+  * A common forum for user support and engagement
