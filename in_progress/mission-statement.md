@@ -32,7 +32,7 @@ It may serve as an entry point for third parties into the structure of the scver
 
 `scverse` provides a set of high quality infrastructure and analysis packages for single cell data.```
 These packages are well documented, tested and with broad functionality.
-All of these packages work with standardized data structures which use common python numeric types and have interchange-friendly on-disk formats.
+All of these packages work with standardized data structures which use common Python numeric types and have interchange-friendly on-disk formats.
 Beyond these standard packages, users have access to cutting-edge and alternative analysis methods through the large ecosystem of packages built around these core tools.
 
 Beyond the purely technical, we support our users through:
