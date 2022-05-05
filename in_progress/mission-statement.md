@@ -24,7 +24,7 @@ We define *core* tools as those which facilitate sharing data through common for
 
 ## User engagement
 
-We are community-driven and committed to keeping the `scverse` community open. We strive to actively foster a community where everyone is and feels welcomed, and where there are no barriers to contributions in various forms. We welcome newcomers and pledge to build an environment where they can grow as contributors, developers and community members. Together with technical and development support, we also support our users through:
+We are community-driven and committed to keeping the `scverse` community open. We strive to actively foster a community where everyone is and feels welcomed, and where there are no barriers to contributions in any form. We welcome newcomers and pledge to build an environment where they can grow as contributors, developers and community members. Together with technical and development support, we also support our users through:
 
 * clear documentation of code and usage of tutorial notebooks.
 * participation in development through issues and pull requests.
@@ -39,7 +39,7 @@ We support the development of third party tools by:
 * Providing stable APIs to build on top of.
 * Providing standardized and well supported data structure to pass around data.
 * Making sure all contributions are recognized in our change logs and documentation.
-* Promoting 3rd party packages that rely on scverse via our websites and social media feeds.
+* Promoting 3rd party packages that rely on `scverse` via our websites and social media feeds.
 * Establishing open communication channels for:
   * Discussion and collaboration between developers.
   * A common forum for user support and engagement.
