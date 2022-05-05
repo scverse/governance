@@ -30,7 +30,7 @@ It may serve as an entry point for third parties into the structure of the scver
 
 ## User engagement
 
-`scverse` provides a set of high quality core packages for performing analysis on single cell data.
+`scverse` provides a set of high quality infrastructure and analysis packages for single cell data.```
 These packages provide are well documented, tested, and provide broad functionality.
 All of these packages work with standardized data structures which use common python numeric types and have interchange-friendly on-disk formats.
 Beyond these standard packages, users have access to cutting-edge and alternative analysis methods through the large ecosystem of packages built around these core tools.
