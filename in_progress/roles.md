@@ -1,6 +1,6 @@
 # Abstract
 
-The purpose of this document is to formalize the governance process used by the `scverse` project, to clarify how decisions are made and how the various elements of our community interact.
+The purpose of this document is to formalize the governance process used by the `scverse` project, to clarify how decisions are made and how the various groups within our community interact.
 
 As a whole, we are a consensus-based community project.
 However, any subproject within the scverse can have their own governance system as long as they do not conflict with the rules set out here.
