@@ -1,6 +1,6 @@
 # Abstract
 
-The purpose of this document is to formalize the governance process used by the `scverse` project, to clarify how decisions are made and how the various elements of our community interact.
+The purpose of this document is to formalize the governance process used by the `scverse` project, to clarify how decisions are made and how the various groups within our community interact.
 
 As a whole, we are a consensus-based community project.
 However, any subproject within the scverse can have their own governance system as long as they do not conflict with the rules set out here.
@@ -51,7 +51,7 @@ There are sub-roles within the core team depending on the kinds covering differe
 Core developers are members of the core team who have made signifigant code contributions to `scverse`.
 They are granted additional rights so they can more easily carry on with their `scverse` related activities.
 These rights include: merging approved pull requests, voting for and against contested pull-requests, and being involved in deciding major changes to the API.
-Core developers are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team (**TODO**).
+Core developers are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team. 
 Core developers are expected to review code contributions while adhering to the [core developer guide](CORE_DEV_GUIDE.md) (**TODO**).
 
 All core packages must have at least one core developer as a maintainer.
@@ -70,11 +70,8 @@ Primary maintainers of new core packages, who are not already core developers, w
 ## Steering Council
 
 The Steering Council (SC) members are core team members who have additional responsibilities to ensure the smooth running of the project.
-SC members are expected to participate in strategic planning, approve changes to the governance model, and make decisions about funding granted to `scverse` itself.
-(Funding to community members is theirs to pursue and manage). 
-The purpose of the SC is to ensure smooth progress from the big-picture perspective.
-Changes that impact the full project require analysis informed by long experience with both the project and the larger ecosystem.
-When the core team (including the SC members) fails to reach such a consensus in a reasonable timeframe, the SC is the entity that resolves the issue.
+SC members are expected to participate in strategic planning, approve changes to the governance model, and make decisions about funding granted to `scverse` itself (funding to community members is theirs to pursue and manage). Changes that impact the full project require analysis informed by extensive experience with both the project and the larger ecosystem.
+When the core team (including the SC members) fails to reach a consensus in a reasonable timeframe, the SC is the entity that resolves the issue.
 
 Members of the steering council also have the "owner" role within the [scverse GitHub organization](https://github.com/scverse/)
 and are ultimately responsible for managing the [scverse](https://github.com/scverse) GitHub account, the [@scverse](https://twitter.com/scanpy_team)
@@ -96,6 +93,18 @@ A nomination will result in discussion that cannot take more than a month and th
 During that time deadlocked votes of the SC will be postponed until the new member has joined and another vote can be held.
 
 The `scverse` steering council may be contacted at `steering-council@scverse.org`, or via the [@scverse/steering-council](https://github.com/orgs/scverse/teams/steering-council) GitHub team.
+
+## Management committee
+
+The management committee consists of PIs that support the development of scverse core projects. Members of the management committee are expected to secure funding and allocate resources to the continuous development of one or more core projects. 
+
+PIs supervising the development of new core packages, who are not already part of the managment committee, will be invited to join.
+
+## Scientific advisory board
+
+The scientific advisory boards consists of highly experienced scientists devoted to research in single cell omics analysis. In an annual meeting, the scientific advisory boards assesses the progress of scverse and suggests priorities for the next year based on the latests developments in the field. 
+
+Members of the scientific adivsory boards are nominated by the core team. 
 
 # Decision Making Process
 
