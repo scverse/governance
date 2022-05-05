@@ -15,7 +15,7 @@ The growing adoption of Python for single-cell omics data analysis has been cata
 Around this infrastructure an ecosystem of packages has been contributed by various developers and institutions — extending single-cell analysis to different modalities and addressing challenges at the cutting-edge of single-cell research.
 To further nurture the growth of this ecosystem, we've formed a new organization -- **`scverse`**.
 
-scverse is a consortium of tools with users and developers across the world. To sustain the utility and growth of the ecosystem, it’s essential the core analytic tools are robust and well-maintained. This entails consistent support and improvement tools beyond what's possible in the conventional single-lab academic setting.
+scverse is a consortium of tools with users and developers across the world. To sustain the utility and growth of the ecosystem, it’s essential the core analytic tools are robust and well-maintained. This entails consistent support and improvement of tools beyond what's possible in the conventional single-lab academic setting.
 
 Tools within `scverse` are deliberately not unified under a single package, and instead form a consortium of core analytic tools with shared maintenance responsibilities.
 We define "core tools" as those which facilitate sharing data through common formats, or provide foundational support for single cell datatypes (e.g. modality-specific IO, toolkits) and analyses. 
