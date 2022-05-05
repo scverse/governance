@@ -30,29 +30,28 @@ It may serve as an entry point for third parties into the structure of the scver
 
 ## User engagement
 
-`scverse` provides a set of high quality infrastructure and analysis packages for single cell data.```
+`scverse` provides a set of high quality infrastructure and analysis packages for single cell data.
 These packages are well documented, tested and with broad functionality.
 All of these packages work with standardized data structures which use common Python numeric types and have interchange-friendly on-disk formats.
 Beyond these standard packages, users have access to cutting-edge and alternative analysis methods through the large ecosystem of packages built around these core tools.
 
 Beyond the purely technical, we support our users through:
 
-* clear documentation of code and usage of tutorial notebooks,
-* participation in development through issues and pull requests,
+* clear documentation of code and usage of tutorial notebooks
+* participation in development through issues and pull requests
 * community forums, such as our Discourse, Zulip, and Twitter account, and
 * workshops at which we teach analysis workflows based on the `scverse` ecosystem
 
 ## Developer engagement
 
-Apart from a collection of analysis tools, `scverse` aims to support the development of new approaches to analyze and work with single cell data.
-We believe that progress in this field can't be silo'd to a few groups.
+`scverse` aims to support the development of new approaches to analyze and work with single cell data. We believe that progress in this field can't be silo'd to a few groups.
 
 We support the development of third party tools by:
 
-* Providing stable APIs to build on top of
-* Providing standardized and well supported data structure to pass around data
-* Making sure all contributions are recognized in our change logs and documentation
+* Providing stable APIs to build on top of.
+* Providing standardized and well supported data structure to pass around data.
+* Making sure all contributions are recognized in our change logs and documentation.
 * Promoting 3rd party packages that rely on scverse via our websites and social media feeds.
-* Establishing open communication channels for
-  * Discussion and collaboration between developers
-  * A common forum for user support and engagement
+* Establishing open communication channels for:
+  * Discussion and collaboration between developers.
+  * A common forum for user support and engagement.
