@@ -70,7 +70,7 @@ Primary maintainers of new core packages, who are not already core developers, w
 ## Steering Council
 
 The Steering Council (SC) members are core team members who have additional responsibilities to ensure the smooth running of the project.
-SC members are expected to participate in strategic planning, approve changes to the governance model, and make decisions about funding granted to `scverse` itself (funding to community members is theirs to pursue and manage). Changes that impact the full project require analysis informed by long experience with both the project and the larger ecosystem.
+SC members are expected to participate in strategic planning, approve changes to the governance model, and make decisions about funding granted to `scverse` itself (funding to community members is theirs to pursue and manage). Changes that impact the full project require analysis informed by extensive experience with both the project and the larger ecosystem.
 When the core team (including the SC members) fails to reach a consensus in a reasonable timeframe, the SC is the entity that resolves the issue.
 
 Members of the steering council also have the "owner" role within the [scverse GitHub organization](https://github.com/scverse/)
