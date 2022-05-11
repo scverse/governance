@@ -35,8 +35,12 @@ We are community-driven and committed to keeping the `scverse` community open. W
 
 ## Developer engagement
 
-Tools within `scverse` are deliberately not unified under a single package, and instead form a consortium of *core* analytic tools with shared maintenance responsibilities. `scverse` aims to support the development of new approaches to analyze and work with single cell data. However, development of *core* packages is not restricted – contributions to the *core* packages are welcomed and publicly acknowledged.
-We support the development of third party tools by:
+Tools within `scverse` are deliberately not unified under a single package, and instead form a consortium of *core* analytic tools with shared maintenance responsibilities. 
+Development of these packages is not restricted – contributions are welcomed and publicly acknowledged.
+However, `scverse` aims to support the external development of new approaches to analyze and work with single cell data.
+We encourage the creation of new methods and tools on top of the *core* packages and datastructures.
+
+We support the development these ecosystem packages by:
 
 * Providing stable APIs to build on top of.
 * Providing standardized and well supported data structure to pass around data.
