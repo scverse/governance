@@ -25,8 +25,8 @@ among other possibilities.
 Any community member can become a contributor, and all are encouraged to do so.
 By contributing to the project, community members can directly help to shape its future.
 
-All community members are required to adhere by our code of conduct (**TODO: add link**).
-Potential contributors are encouraged to read the Contributing Guide (**TODO: add link**).
+All community members are required to adhere by our [code of conduct](https://scverse.org/about/code_of_conduct/).
+Potential contributors are encouraged to read the [Contributing Guide](https://scanpy.readthedocs.io/en/stable/dev/index.html).
 
 A community member becomes a contributor when the following criteria are met:
 
@@ -52,7 +52,6 @@ Core developers are members of the core team who have made signifigant code cont
 They are granted additional rights so they can more easily carry on with their `scverse` related activities.
 These rights include: merging approved pull requests, voting for and against contested pull-requests, and being involved in deciding major changes to the API.
 Core developers are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team. 
-Core developers are expected to review code contributions while adhering to the [core developer guide](CORE_DEV_GUIDE.md) (**TODO**).
 
 All core packages must have at least one core developer as a maintainer.
 New core developers can be nominated by any existing core developer. 
