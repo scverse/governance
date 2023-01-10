@@ -9,6 +9,7 @@ Work in progress.
 - [ ] MuData enhancements with new methods incl. [concatenation](https://anndata.readthedocs.io/en/latest/concatenation.html)
 - [ ] Improved out-of-memory analysis for AnnData and MuData
 - [ ] [Awkward array](https://awkward-array.org/doc/main/) support for AnnData
+- [ ] [Lightweight non-string indices](https://github.com/scverse/anndata/issues/777) support for AnnData
 
 ### Genomics
 
@@ -29,7 +30,8 @@ Work in progress.
 - [ ] Tighten integration with ecosystem tools, e.g. [dandelion](https://sc-dandelion.readthedocs.io/en/latest/?badge=latest), [mvTCR](https://github.com/SchubertLab/mvTCR)
 
 ### Documentation
-- [ ] New tutorial website (work in progress see github.com/scverse/scverse-tutorials/)
+
+- [ ] New tutorial website (work in progress, see <https://github.com/scverse/scverse-tutorials/>)
 
 ### Events
 
