@@ -105,6 +105,15 @@ The scientific advisory boards consists of highly experienced scientists devoted
 
 Members of the scientific adivsory boards are nominated by the core team. 
 
+## NumFOCUS subcommittee
+
+The core team will maintain a subcommittee to manage its interactions with NumFOCUS.
+
+* The NumFOCUS Subcommittee is comprised of at least 5 persons who manage project funding that comes through NumFOCUS. It is expected that these funds will be spent in a manner that is consistent with the non-profit mission of NumFOCUS and the direction of the Project as determined by the Core Team.
+* This Subcommittee shall NOT make decisions about the direction, scope or technical direction of the Project.
+
+*The role of NumFOCUS subcomittee is modelled after [numpy](https://numpy.org/devdocs/dev/governance/governance.html#numfocus-subcommittee)*
+
 # Decision Making Process
 
 Decisions about the future of the project are made through discussion with members of the community.
