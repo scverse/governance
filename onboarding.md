@@ -7,7 +7,7 @@
 - [ ] add to zulip
 - [ ] moderation privileges on discourse
 - [ ] add to password manager
-- [ ] add to github org and scverse/core-team github team
+- [ ] add to github org and [scverse/core](https://github.com/orgs/scverse/teams/core) github team
 - [ ] add to google drive
 - [ ] invite to governance and community meetings
 - [ ] write permission on google calendar
