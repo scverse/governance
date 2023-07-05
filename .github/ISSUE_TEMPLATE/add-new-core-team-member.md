@@ -14,6 +14,7 @@ assignees: ''
 - [ ] add to zulip
     - [ ] @core team
     - [ ] core-team private channel
+- [ ] Grant "Leader" trust level on discourse
 - [ ] add to password manager
 - [ ] add to github org and [scverse/core](https://github.com/orgs/scverse/teams/core) github team
 - [ ] announce the new member on twitter
