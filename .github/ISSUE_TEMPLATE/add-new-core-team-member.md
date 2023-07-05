@@ -11,11 +11,11 @@ assignees: ''
 
 - [ ] add to website
 - [ ] add to core-team@scverse.org
+  - This should add people to the calendar and google drive as well, as they are registered to the google group.
 - [ ] add to zulip
+    - [ ] @core team
+    - [ ] core-team private channel
 - [ ] moderation privileges on discourse
 - [ ] add to password manager
 - [ ] add to github org and [scverse/core](https://github.com/orgs/scverse/teams/core) github team
-- [ ] invite to governance and community meetings
-- [ ] add to google drive
-- [ ] write permission on google calendar
 - [ ] announce the new member on twitter
