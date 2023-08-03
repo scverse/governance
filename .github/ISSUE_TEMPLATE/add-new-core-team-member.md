@@ -10,12 +10,11 @@ assignees: ''
 # Onboarding checklist
 
 - [ ] add to website
-- [ ] add to core-team@scverse.org
+- [ ] add to core-team@scverse.org google group. Note: the email address used here will also get access to the shared google drive and calendars.
 - [ ] add to zulip
-- [ ] moderation privileges on discourse
+    - [ ] @core team
+    - [ ] core-team private channel
+- [ ] Grant "Leader" trust level on discourse
 - [ ] add to password manager
 - [ ] add to github org and [scverse/core](https://github.com/orgs/scverse/teams/core) github team
-- [ ] invite to governance and community meetings
-- [ ] add to google drive
-- [ ] write permission on google calendar
 - [ ] announce the new member on twitter
