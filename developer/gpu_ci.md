@@ -2,14 +2,14 @@
 
 ## Goal
 
-We want to ensure that all scverse packages that can utilize the GPU test all relevant functions via CI.
+We want to ensure that all scverse packages with GPU support test all relevant functions via CI.
 
 ## Setup
 
 The current setup has several components:
 
 1. A setup on [cirun](https://cirun.io) that activates self-hosted Github Actions Runners that we specify.
-2. An AWS Account that is connected to cirun and associated machine images.
+2. An AWS Account that is connected to cirun which further provdes machine images.
 3. Configuration files on the target Github repostitory for cirun and Github actions.
 
 ### cirun
@@ -124,3 +124,8 @@ jobs:
 #### Pytest
 
 TODO Isaac & Phil
+
+#### Custom machine images
+
+We are looking into custom machine images. This may be documented at a later point.
+For a starting point https://docs.cirun.io/custom-images/cloud-custom-images#aws-building-custom-images-with-user-modification may be useful.
