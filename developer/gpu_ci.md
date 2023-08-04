@@ -126,7 +126,48 @@ jobs:
 
 #### Pytest
 
-TODO Isaac & Phil
+To make sure GPU tests are only run when it’s possible,
+but also not by default, we add a pytest mark and give it special behavior.
+
+To add a mark, one has to declare it in `pyproject.toml`:
+
+```toml
+[tool.pytest.ini_options]
+markers = ["gpu: mark test to run on GPU"]
+```
+
+This allows tests and parameters to be marked:
+
+```python
+@pytest.mark.gpu
+def test_thing(): ...
+
+@pytest.mark.parametrize('cls', [
+    pytest.param(CuArray, marks=[pytest.mark.gpu], id='cuda'),
+    pytest.param(np.ndarray, id='numpy')
+])
+def test_other_thing(cls): ...
+```
+
+We also modify all tests with the `gpu` mark
+by adding a second mark that skips tests if `cupy` isn’t installed.
+
+```python
+# TODO: move to anndata or so
+from scanpy.testing._pytest.marks import needs
+
+def pytest_itemcollected(item):
+    """Defining behavior of pytest.mark.gpu"""
+    from importlib.util import find_spec
+
+    gpu = len([mark for mark in item.iter_markers(name="gpu")]) > 0
+
+    if gpu:
+        item.add_marker(needs("cupy"))
+```
+
+The resulting behavior is that `pytest` will run all tests
+(if `cupy` is installed), while `pytest -m gpu` runs only GPU tests.
 
 #### Custom machine images
 
