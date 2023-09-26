@@ -94,9 +94,9 @@ jobs:
       run:
         shell: bash -el {0}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          filter: "tree:0"
 
       - name: Nvidia SMI sanity check
         run: nvidia-smi
