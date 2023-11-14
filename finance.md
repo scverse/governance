@@ -20,14 +20,13 @@ Consider pointing this out to interested parties.
 ### Requesting reimbursements
 
 Any expenses that do not exceed 100$ are automatically approved.
-If your reimbursement request exceeds 100$, post your request on the "reimbursements" topic in the core zulip chat.
+If your reimbursement request exceeds 100$, post your request in the "balance and reimbursements" topic in the core zulip chat.
 All members of the core team have 72 hours to review and object to your request.
-If no objections are raised within this time frame, your request will be automatically approved.
+If no objections are raised within this time frame, your request will automatically be approved.
 
 ### Submitting reimbursement requests
 
-1. Upload the receipt to our Google Drive (scverse -> numfocus -> reimbursements) for documentation reasons.
-   PDFs or phone camera pictures suffice. It is not required to have scverse or NumFOCUS on the receipt.
+1. If your request exceeds 100$ post your request in the "balance and reimbursements" topic in the core chat on zulip.
 2. [Submit your expense request](https://opencollective.com/scverse/expenses/new) by selecting "reimbursements" and entering all required details.
    [More information on submitting expenses](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
 3. Wait for Isaac or Lukas to approve your request.
