@@ -10,7 +10,7 @@ assignees: ''
 # Onboarding checklist
 
 - [ ] add to website
-- [ ] add to core-team@scverse.org google group. Note: the email address used here will also get access to the shared google drive and calendars.
+- [ ] add to core_team@scverse.org google group. Note: the email address used here will also get access to the shared google drive and calendars.
 - [ ] add to zulip
     - [ ] @core team
     - [ ] core-team private channel
