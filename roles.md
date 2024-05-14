@@ -66,6 +66,31 @@ After nomination admission will be decided by two-thirds majority vote on a priv
 
 Primary maintainers of new core packages, who are not already core developers, will be invited to join.
 
+The core developers may meet and decide on development-related topics without the rest of the core team. 
+
+### Core community team
+
+Core community team members have made significant contributions towards building the `scverse` community. 
+Their responsibilities include
+ * organizing events, such as hackathons
+ * outreach, including website, social media etc. 
+ * triaging issues and answering questions on the discourse forum
+
+The community team may meet and decide on community related topics without the rest of the core team. 
+
+### governance team
+
+The governance team is responsible to ensure smooth running of the project and handle strategic decisions. 
+The governance team meets on a regular basis without the other core team members. If the governance team fails to reach a consensus on a topic, they can call for a vote of the entire core team. 
+
+The governance team consists of a subset of 5 core team members and are determined by majority vote of they 
+core team members. The term of a governance-team member lasts for 1 year and may not be elected in two consecutive terms. 
+
+Responsibilities of the governance team include
+ * acquire funding 
+ * represent the organization to the outside
+ * coordinate with core dev and core community team on development and community outreach
+
 ## Steering Council
 
 The Steering Council (SC) members are core team members who have additional responsibilities to ensure the smooth running of the project.
