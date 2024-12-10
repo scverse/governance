@@ -9,7 +9,7 @@ deviate from this rule and the process we adhere to.
 other core team members are allows to make required fixes and make a patch release.** Please adhere to the following rules:
 
 - Reach out to the maintainer(s) first. Depending on the severity of the issue give them one business day to react.
-- Four-eye principle: find another developer to review your pull request with the fixes.
+- Four-eye principle: find another (core) developer to review your pull request with the fixes.
 - Only fix what is absolutely necessary. Do not add new features or refactor the codebase.
 
 ## Documenting release process
