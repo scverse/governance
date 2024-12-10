@@ -1,7 +1,7 @@
 # Hotfix policy
 
 Each scverse core package is maintained by one or multiple core developers who merge pull requests and make releases.
-While all core team members are welcome to contribute to all repos, it is typically the realm of the maintaiers
+While all core team members are welcome to contribute to all repos, it is typically the realm of the maintainers
 to review and merge pull requests, as well as to make releases. The purpose of this document is to document under which circumstances we
 deviate from this rule and to the process we adhere to.
 
