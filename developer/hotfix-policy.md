@@ -3,7 +3,7 @@
 Each scverse core package is maintained by one or multiple core developers who merge pull requests and make releases.
 While all core team members are welcome to contribute to all repos, it is typically the realm of the maintainers
 to review and merge pull requests, as well as to make releases. The purpose of this document is to document under which circumstances we
-deviate from this rule and to the process we adhere to.
+deviate from this rule and the process we adhere to.
 
 **If a critical fix is required for any core package (security issue, package not installable, CI breaks, ...)
 other core team members are allows to make required fixes and make a patch release.** Please adhere to the following rules:
