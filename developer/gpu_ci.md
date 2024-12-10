@@ -25,7 +25,7 @@ To enable GPU CI via cirun two things need to be done.
    Instructions can be found here: https://docs.cirun.io/cloud/aws.
    We're using the Helmholtz AWS Account for this purpose.
    Currently, Isaac, Phil and Lukas have access to this AWS account.
-2. The repository needs to be activated on cirun. 
+2. The repository needs to be activated on cirun.
    Currently, we're using Lukas' setup who is happy to activate repositories on request.
 
 ### Configuration files
