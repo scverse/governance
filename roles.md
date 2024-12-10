@@ -48,19 +48,19 @@ There are sub-roles within the core team depending on the kinds covering differe
 
 ### Core developers
 
-Core developers are members of the core team who have made signifigant code contributions to `scverse`.
+Core developers are members of the core team who have made significant code contributions to `scverse`.
 They are granted additional rights so they can more easily carry on with their `scverse` related activities.
 These rights include: merging approved pull requests, voting for and against contested pull-requests, and being involved in deciding major changes to the API.
-Core developers are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team. 
+Core developers are on our [@scverse/core-devs](https://github.com/orgs/scverse/teams/core-devs) GitHub team.
 
 All core packages must have at least one core developer as a maintainer.
-New core developers can be nominated by any existing core developer. 
-While there is no hard-and-fast rule about who can be nominated, ideally, they should have: 
+New core developers can be nominated by any existing core developer.
+While there is no hard-and-fast rule about who can be nominated, ideally, they should have:
 
-* Been part of the community for a significant amount of time
-* Contributed significant changes of their own
-* Contributed to the discussion and review of others' work
-* Collaborated in a way befitting our community values
+- Been part of the community for a significant amount of time
+- Contributed significant changes of their own
+- Contributed to the discussion and review of others' work
+- Collaborated in a way befitting our community values
 
 After nomination admission will be decided by two-thirds majority vote on a private mailing list by the core team.
 
@@ -77,12 +77,12 @@ and are ultimately responsible for managing the [scverse](https://github.com/scv
 twitter account, the [scverse website](https://scverse.org), and other similar scverse-owned resources.
 
 The steering council is currently fixed in size to three members.
-This number will be increased as our community grows and diversifies, but will always be an odd number to ensure a simple majority vote outcome is always possible. 
+This number will be increased as our community grows and diversifies, but will always be an odd number to ensure a simple majority vote outcome is always possible.
 The initial steering council of the `scverse` consists of
 
-* [Isaac Virshup](https://github.com/ivirshup)
-* [Danila Bredikhin](https://github.com/gtca)
-* [Lukas Heumos](https://github.com/Zethson)
+- [Isaac Virshup](https://github.com/ivirshup)
+- [Danila Bredikhin](https://github.com/gtca)
+- [Lukas Heumos](https://github.com/Zethson)
 
 The SC membership is revisited every January.
 SC members who do not actively engage with the SC duties are expected to resign.
@@ -95,24 +95,24 @@ The `scverse` steering council may be contacted at `steering-council@scverse.org
 
 ## Management committee
 
-The management committee consists of PIs that support the development of scverse core projects. Members of the management committee are expected to secure funding and allocate resources to the continuous development of one or more core projects. 
+The management committee consists of PIs that support the development of scverse core projects. Members of the management committee are expected to secure funding and allocate resources to the continuous development of one or more core projects.
 
-PIs supervising the development of new core packages, who are not already part of the managment committee, will be invited to join.
+PIs supervising the development of new core packages, who are not already part of the management committee, will be invited to join.
 
 ## Scientific advisory board
 
-The scientific advisory boards consists of highly experienced scientists devoted to research in single cell omics analysis. In an annual meeting, the scientific advisory boards assesses the progress of scverse and suggests priorities for the next year based on the latests developments in the field. 
+The scientific advisory boards consists of highly experienced scientists devoted to research in single cell omics analysis. In an annual meeting, the scientific advisory boards assesses the progress of scverse and suggests priorities for the next year based on the latests developments in the field.
 
-Members of the scientific adivsory boards are nominated by the core team. 
+Members of the scientific advisory boards are nominated by the core team.
 
 ## NumFOCUS subcommittee
 
 The core team will maintain a subcommittee to manage its interactions with NumFOCUS.
 
-* The NumFOCUS Subcommittee is comprised of at least 5 persons who manage project funding that comes through NumFOCUS. It is expected that these funds will be spent in a manner that is consistent with the non-profit mission of NumFOCUS and the direction of the Project as determined by the Core Team.
-* This Subcommittee shall NOT make decisions about the direction, scope or technical direction of the Project.
+- The NumFOCUS Subcommittee is comprised of at least 5 persons who manage project funding that comes through NumFOCUS. It is expected that these funds will be spent in a manner that is consistent with the non-profit mission of NumFOCUS and the direction of the Project as determined by the Core Team.
+- This Subcommittee shall NOT make decisions about the direction, scope or technical direction of the Project.
 
-*The role of NumFOCUS subcomittee is modelled after [numpy](https://numpy.org/devdocs/dev/governance/governance.html#numfocus-subcommittee)*
+_The role of NumFOCUS subcomittee is modelled after [numpy](https://numpy.org/devdocs/dev/governance/governance.html#numfocus-subcommittee)_
 
 # Decision Making Process
 
