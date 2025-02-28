@@ -2,7 +2,7 @@
 
 ## Goals
 
-We want to make analysis tools for omics data in the life sciences as accessible as possible. This means:
+We of scverse® want to make analysis tools for omics data in the life sciences as accessible as possible. This means:
 
 - Interoperability -- we focus on developing open, standardized, and efficient file formats to encourage data sharing and reuse.
 - Diversity -- we believe in removing barriers to participation in research, including economic factors and institutional culture. Our tools will have the most impact if they are developed by and for a diverse community.
@@ -15,9 +15,9 @@ We want to make analysis tools for omics data in the life sciences as accessible
 The growing adoption of Python for single-cell omics data analysis has been catalyzed by [Scanpy](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1382-0) and [AnnData](https://anndata.readthedocs.io/en/latest/).
 Around this infrastructure an ecosystem of packages has been created by various developers and institutions — extending single-cell analysis to different modalities and addressing challenges at the cutting-edge of single-cell research. We believe that progress in this field can't be silo'd to a few groups. To further nurture the growth of this ecosystem, we've formed a new organization -- **`scverse`**.
 
-`scverse` is a consortium of tools with users and developers across the world. To sustain the utility and growth of the ecosystem, it’s essential that the core analytic tools are robust and well-maintained. This entails consistent support and improvement of tools beyond what's possible in the conventional single-lab academic setting.
+`scverse®` is a consortium of tools with users and developers across the world. To sustain the utility and growth of the ecosystem, it’s essential that the core analytic tools are robust and well-maintained. This entails consistent support and improvement of tools beyond what's possible in the conventional single-lab academic setting.
 
-`scverse` provides high quality infrastructure for analysis of single cell omics data. These _core_ tools are well documented, tested, and provide broad functionality. They work with standardized data structures which use common Python numeric types and have interchange-friendly on-disk formats.
+`scverse®` provides high quality infrastructure for analysis of single cell omics data. These _core_ tools are well documented, tested, and provide broad functionality. They work with standardized data structures which use common Python numeric types and have interchange-friendly on-disk formats.
 
 We define _core_ tools as those which facilitate sharing data through common formats, or provide foundational support for single cell datatypes (e.g. modality-specific IO, toolkits) and analyses.
 These tools are placed under shared maintenance and development in the `scverse` GitHub organization.
