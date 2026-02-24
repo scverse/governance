@@ -83,6 +83,7 @@ The initial steering council of the `scverse` consists of
 - [Isaac Virshup](https://github.com/ivirshup)
 - [Danila Bredikhin](https://github.com/gtca)
 - [Lukas Heumos](https://github.com/Zethson)
+- [Mikaela Koutrouli](https://github.com/mikelkou)
 
 The SC membership is revisited every January.
 SC members who do not actively engage with the SC duties are expected to resign.
