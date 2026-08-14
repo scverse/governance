@@ -16,7 +16,7 @@ assignees: ""
   - note: membership also grants access to the shared Google Drive and calendars
 - [ ] add to Zulip
   - [ ] [core group](https://scverse.zulipchat.com/#groups/308955/core/members)
-  - [ ] [core team private channel] (https://scverse.zulipchat.com/#narrow/channel/315186-core-team)
+  - [ ] [core team private channel](https://scverse.zulipchat.com/#narrow/channel/315186-core-team)
   - [ ] [core developers' private channel](https://scverse.zulipchat.com/#narrow/channel/590174-core-developers), if relevant
 - [ ] add to [NumFOCUS Zulip](https://numfocus.zulipchat.com/)
 - [ ] add to the GitHub organization and [scverse/core](https://github.com/orgs/scverse/teams/core) GitHub team
