@@ -4,4 +4,9 @@ Governance docs for scverse
 
 ## Onboarding
 
-To onboard a new core member, use the [onboarding issue template](https://github.com/scverse/governance/issues/new?assignees=&labels=people%2C+TODO&projects=&template=add-new-core-team-member.md&title=Adding%3A+%7Bperson%27s+name%7D).
+The onboarding checklists for new core members now live in Notion (only visible to core members):
+
+- core governance: [Onboarding](https://app.notion.com/p/Onboarding-3520c8e81297804695abcfde1837254e) in the core teamspace
+- core developers: [Onboarding](https://app.notion.com/p/Onboarding-40e0c8e812978098a1ddfc36b6a0b45c) in the core developers teamspace
+
+The [onboarding issue template](.github/ISSUE_TEMPLATE/add-new-core-team-member.md) is no longer used.
